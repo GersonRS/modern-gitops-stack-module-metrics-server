@@ -1,0 +1,7 @@
+---
+name: "metrics-server"
+title: "Metrics Server Module"
+version: true
+start_page: README.adoc
+nav:
+  - "modules/ROOT/nav.adoc"
