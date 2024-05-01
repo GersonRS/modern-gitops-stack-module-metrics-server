@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.5.0](https://github.com/GersonRS/modern-gitops-stack-module-metrics-server/compare/v2.4.0...v2.5.0) (2024-05-01)
+
+
+### 🚀 New Features
+
+* change chart update to include secrets ([996d276](https://github.com/GersonRS/modern-gitops-stack-module-metrics-server/commit/996d276662f5b2fc247e612b71483b3c16125562))
+
+
+### 📚 Documentation
+
+* **terraform-docs:** generate docs and write to README.adoc ([6b4aa4f](https://github.com/GersonRS/modern-gitops-stack-module-metrics-server/commit/6b4aa4f70e0e207ba25f66e87891e6d2d4e3213c))
+
 ## [2.4.0](https://github.com/GersonRS/modern-gitops-stack-module-metrics-server/compare/v2.3.0...v2.4.0) (2024-05-01)
 
 
