@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.6.0](https://github.com/GersonRS/modern-gitops-stack-module-metrics-server/compare/v2.5.0...v2.6.0) (2025-01-18)
+
+
+### 🚀 New Features
+
+* **chart:** minor update of dependencies on metrics-server chart ([58dd02a](https://github.com/GersonRS/modern-gitops-stack-module-metrics-server/commit/58dd02a9cbef6beb8478a1a1c3ebe5a08cbbd44b))
+
+
+### 📚 Documentation
+
+* **terraform-docs:** generate docs and write to README.adoc ([5c9716b](https://github.com/GersonRS/modern-gitops-stack-module-metrics-server/commit/5c9716b428f4122b332ef132b974c96d7c033f2c))
+
 ## [2.5.0](https://github.com/GersonRS/modern-gitops-stack-module-metrics-server/compare/v2.4.0...v2.5.0) (2024-05-01)
 
 
