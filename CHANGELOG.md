@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.7.1](https://github.com/GersonRS/modern-gitops-stack-module-metrics-server/compare/v2.7.0...v2.7.1) (2025-02-08)
+
+
+### ⌨️ Code Refactoring
+
+* adjust workflows ([ad1e73b](https://github.com/GersonRS/modern-gitops-stack-module-metrics-server/commit/ad1e73b67a47955b37285aaa356f149e8475f84b))
+* try adjust code 5 ([ec92faa](https://github.com/GersonRS/modern-gitops-stack-module-metrics-server/commit/ec92faaa7e238ca0c09179c84b3f50f4990d6431))
+
 ## [2.7.0](https://github.com/GersonRS/modern-gitops-stack-module-metrics-server/compare/v2.6.0...v2.7.0) (2025-01-18)
 
 
